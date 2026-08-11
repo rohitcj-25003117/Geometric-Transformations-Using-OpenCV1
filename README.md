@@ -212,6 +212,11 @@ plt.imshow(
 plt.title("Cropped Image")
 plt.axis('off')
 plt.show()```
+
+OUTPUT:
+<img width="497" height="1085" alt="Screenshot 2026-08-11 132110" src="https://github.com/user-attachments/assets/fa383cc5-f1c1-4bf9-9c79-207b34c49e9e" />
+
 Result
+
 
 Thus, various geometric transformations such as translation, scaling, shearing, reflection, rotation, and cropping are successfully performed using OpenCV on the image tamilnadumap.jpg.
