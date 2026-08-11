@@ -211,8 +211,8 @@ plt.imshow(
 
 plt.title("Cropped Image")
 plt.axis('off')
-plt.show()```
-
+plt.show()
+```
 OUTPUT:
 <img width="497" height="1085" alt="Screenshot 2026-08-11 132110" src="https://github.com/user-attachments/assets/fa383cc5-f1c1-4bf9-9c79-207b34c49e9e" />
 
